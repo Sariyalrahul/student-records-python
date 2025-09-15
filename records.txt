@@ -3,4 +3,54 @@ Anshuman Panwar,English,87
 Rahul ,Physics,76
 Rahul ,English,86
 Anshuman,Math,65
+Akash, Math, 90
+Palak, English, 76
+Rohan, Science, 85
+Meera, History, 78
+Arjun, Geography, 92
+Tanya, Math, 88
+Sameer, English, 81
+Priya, Science, 79
+Karan, History, 84
+Sneha, Geography,75
+Ankit, Math, 91
+Isha, English, 77
+Rahul, Science, 86
+Nisha, History, 80
+Dev, Geography, 83
+Pooja, Math, 89
+Ritu, English, 82
+Vikas, Science, 87
+Sonam, History, 78
+Mohit, Geography, 90
+Aarav, Math, 92
+Sanya, English, 79
+Raj, Science, 88
+Tina, History, 81
+Kshitij, Geography, 85
+Ananya, Math, 90
+Yash, English, 83
+Divya, Science, 80
+Harsh, History, 87
+Neha, Geography, 76
+Siddharth, Math, 84
+Rhea, English, 78
+Manish, Science, 82
+Kriti, History, 86
+Akshay, Geography, 91
+Simran, Math, 88
+Aditya, English, 85
+Shreya, Science, 90
+Vikram, History, 79
+Nivedita, Geography, 83
+Aman, Math, 81
+Anika, English, 87
+Tarun, Science, 89
+Rashi, History, 80
+Jay, Geography, 88
+Sakshi, Math, 86
+Mohan, English, 90
+Priyanka, Science, 84
+Rohan, History, 82
+Kavya, Geography, 91
 
