@@ -49,6 +49,7 @@ Tarun, Science, 89
 Rashi, History, 80
 Jay, Geography, 88
 Sakshi, Math, 86
+Syaam,English,33
 Mohan, English, 90
 Priyanka, Science, 84
 Rohan, History, 82
